@@ -1,4 +1,5 @@
-First , Install Node_modules =>Create .eslint.rc.json if u Use it (option)
+ Node_modules Folder is Exculed here.
+ Create .eslint.rc.json if u Use it (optional)
 
 To run, you must have gulp-cli version 4 installed globally. Do this by running:
 > npm install -g gulp-cli 
